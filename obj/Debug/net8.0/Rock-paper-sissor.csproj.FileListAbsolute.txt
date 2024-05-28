@@ -1,0 +1,14 @@
+/home/brain/C# Projects/Rock-paper-sissor/bin/Debug/net8.0/Rock-paper-sissor
+/home/brain/C# Projects/Rock-paper-sissor/bin/Debug/net8.0/Rock-paper-sissor.deps.json
+/home/brain/C# Projects/Rock-paper-sissor/bin/Debug/net8.0/Rock-paper-sissor.runtimeconfig.json
+/home/brain/C# Projects/Rock-paper-sissor/bin/Debug/net8.0/Rock-paper-sissor.dll
+/home/brain/C# Projects/Rock-paper-sissor/bin/Debug/net8.0/Rock-paper-sissor.pdb
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.GeneratedMSBuildEditorConfig.editorconfig
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.AssemblyInfoInputs.cache
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.AssemblyInfo.cs
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.csproj.CoreCompileInputs.cache
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.dll
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/refint/Rock-paper-sissor.dll
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.pdb
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/Rock-paper-sissor.genruntimeconfig.cache
+/home/brain/C# Projects/Rock-paper-sissor/obj/Debug/net8.0/ref/Rock-paper-sissor.dll
